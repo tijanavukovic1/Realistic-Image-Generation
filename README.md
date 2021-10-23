@@ -1,5 +1,5 @@
 # Realistic-Image-Generation
- 
+lalalala 
 
 This is the [paper](https://arxiv.org/pdf/2006.10738.pdf) on which our work for Realistic Image Generation is based.
 For realistic image generation we used GAN with differentiable augmentation on generator and discriminator.
